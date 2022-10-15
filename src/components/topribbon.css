@@ -1,0 +1,64 @@
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color:#FAF9F8;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    width: 100%;
+  }
+
+.logo {
+    font-size: 50px;
+    font-weight: 300;
+    background-color: transparent;
+    width: fit-content;
+    height: fit-content;
+    border: none;
+    outline: none;
+    margin-right: 600px;
+}
+
+.nav-links {
+  font-size: 20px;
+  font-weight: 300;
+  background-color: transparent;
+  color: #545454;
+  width: fit-content;
+  height: fit-content;
+  border: none;
+  outline: none;
+}
+
+.nav-links:hover {
+  opacity: 0.8;
+}
+
+
+.account {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-right: 20px;
+}
+
+.account > a {
+  margin-left: 15px;
+  font-family: poppins;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.account > a:link{
+  text-decoration: none;
+  color: #545454;
+}
+
+.account > a:visited{
+  color: #545454;
+}
