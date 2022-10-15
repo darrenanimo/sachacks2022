@@ -1,18 +1,25 @@
 import React from 'react';
+import "../css/Home.css"
 import { Link } from 'react-router-dom';
-import TopRibbon from '../components/topribbon.jsx'
+import TopRibbonHome from '../components/topribbonhome.jsx'
+
+
+import background from "../images/website-background.png"
 
 
 function Home() {
 
     return (
         <main>
-          <TopRibbon/>
-          <div>
-            homepage
-          </div>
-            <div>
-            <p><Link to="/dashboard"> <button class="nav-links">Dashboard </button></Link></p>
+          <TopRibbonHome/>
+            <div style={{ backgroundImage: `url(${background})`, height: 1000}}>
+            <p><Link to="/dashboard"> <button class="nav-links">Sign In </button></Link></p>
+              <div class = "welcome">
+                Welcome to Lightly
+              </div>
+              <div class = "mission">
+                OUR MISSION
+              </div>
             </div>
         </main>
       );

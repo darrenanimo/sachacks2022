@@ -3,6 +3,8 @@ import './App.css';
 import Dashboard from './pages/Dashboard';
 import Home from './pages/Home';
 
+import "@fontsource/cormorant";
+
 import {BrowserRouter, Routes, Route, Navigate} from "react-router-dom";
 
 

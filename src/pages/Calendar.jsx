@@ -5,7 +5,7 @@ import TopRibbon from '../components/topribbon.jsx'
 
 import background from "../images/website-background.png"
 
-function Dashboard() {
+function Calendar() {
 
     return (
         <main>
@@ -13,10 +13,7 @@ function Dashboard() {
             <div style={{ backgroundImage: `url(${background})`, height: 1000}}>
             
                 <div>
-                    <p>How have you been doing?</p>
-                    <p>
-                        What is 
-                    </p>
+                    <p>Calendar</p>
                 </div>
                 
             </div>
@@ -24,4 +21,4 @@ function Dashboard() {
       );
     }
     
-    export default Dashboard;
+    export default Calendar;
