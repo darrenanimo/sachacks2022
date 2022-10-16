@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sachacks2022/static/css/main.2d567d99.css",
-    "main.js": "/sachacks2022/static/js/main.5dc06ef5.js",
+    "main.js": "/sachacks2022/static/js/main.43a52973.js",
     "static/js/787.49af3b24.chunk.js": "/sachacks2022/static/js/787.49af3b24.chunk.js",
     "static/media/website-background.png": "/sachacks2022/static/media/website-background.405d595750e9b8831acc.png",
     "static/media/cormorant-all-400-normal.woff": "/sachacks2022/static/media/cormorant-all-400-normal.22a80bbdaf42c5deaa6d.woff",
@@ -14,11 +14,11 @@
     "static/media/cormorant-vietnamese-400-normal.woff2": "/sachacks2022/static/media/cormorant-vietnamese-400-normal.5a104f603d6a222485a2.woff2",
     "index.html": "/sachacks2022/index.html",
     "main.2d567d99.css.map": "/sachacks2022/static/css/main.2d567d99.css.map",
-    "main.5dc06ef5.js.map": "/sachacks2022/static/js/main.5dc06ef5.js.map",
+    "main.43a52973.js.map": "/sachacks2022/static/js/main.43a52973.js.map",
     "787.49af3b24.chunk.js.map": "/sachacks2022/static/js/787.49af3b24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d567d99.css",
-    "static/js/main.5dc06ef5.js"
+    "static/js/main.43a52973.js"
   ]
 }
