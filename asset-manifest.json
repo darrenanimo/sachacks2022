@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/sachacks2022/static/css/main.1ae529c9.css",
-    "main.js": "/sachacks2022/static/js/main.d6d24dbf.js",
+    "main.css": "/sachacks2022/static/css/main.ff1beaca.css",
+    "main.js": "/sachacks2022/static/js/main.5be91926.js",
     "static/js/787.49af3b24.chunk.js": "/sachacks2022/static/js/787.49af3b24.chunk.js",
     "static/media/website-background.png": "/sachacks2022/static/media/website-background.405d595750e9b8831acc.png",
     "static/media/cormorant-all-400-normal.woff": "/sachacks2022/static/media/cormorant-all-400-normal.22a80bbdaf42c5deaa6d.woff",
+    "static/media/lightly-person3.png": "/sachacks2022/static/media/lightly-person3.ff6d37609001c2c4d0e5.png",
     "static/media/cormorant-latin-400-normal.woff2": "/sachacks2022/static/media/cormorant-latin-400-normal.767a4f4fca1ff65f8ba9.woff2",
     "static/media/lightly-logo.png": "/sachacks2022/static/media/lightly-logo.43877cab2582e1693dbb.png",
     "static/media/cormorant-latin-ext-400-normal.woff2": "/sachacks2022/static/media/cormorant-latin-ext-400-normal.9102d78d9cdd9a315ccd.woff2",
+    "static/media/lightly-person1.png": "/sachacks2022/static/media/lightly-person1.a61fe56bddab4c910d87.png",
     "static/media/cormorant-cyrillic-ext-400-normal.woff2": "/sachacks2022/static/media/cormorant-cyrillic-ext-400-normal.1d0d6cca440133e8225b.woff2",
     "static/media/cormorant-cyrillic-400-normal.woff2": "/sachacks2022/static/media/cormorant-cyrillic-400-normal.11bcef54e669e8ff7727.woff2",
-    "static/media/lightly-person1.png": "/sachacks2022/static/media/lightly-person1.85e3166b9f540f6b8a4a.png",
     "static/media/cormorant-vietnamese-400-normal.woff2": "/sachacks2022/static/media/cormorant-vietnamese-400-normal.5a104f603d6a222485a2.woff2",
     "index.html": "/sachacks2022/index.html",
-    "main.1ae529c9.css.map": "/sachacks2022/static/css/main.1ae529c9.css.map",
-    "main.d6d24dbf.js.map": "/sachacks2022/static/js/main.d6d24dbf.js.map",
+    "main.ff1beaca.css.map": "/sachacks2022/static/css/main.ff1beaca.css.map",
+    "main.5be91926.js.map": "/sachacks2022/static/js/main.5be91926.js.map",
     "787.49af3b24.chunk.js.map": "/sachacks2022/static/js/787.49af3b24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ae529c9.css",
-    "static/js/main.d6d24dbf.js"
+    "static/css/main.ff1beaca.css",
+    "static/js/main.5be91926.js"
   ]
 }
