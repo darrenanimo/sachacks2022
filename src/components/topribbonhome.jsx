@@ -8,7 +8,7 @@ function TopRibbonHome() {
       <div id="topribbon">
         
           <div class="navleft">
-          <Link to="/dashboard"><img src={logo} id="logo"/></Link>
+          <img src={logo} id="logo"/>
             
           </div>
           <div class = "navhome">
