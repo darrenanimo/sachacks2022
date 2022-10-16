@@ -27,6 +27,7 @@ function Dashboard() {
                         <input class = "input">
                         </input> 
                     </p>
+                    
                 </div>
                 
             </div>
