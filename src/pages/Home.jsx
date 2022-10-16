@@ -13,7 +13,6 @@ function Home() {
         <main>
           <TopRibbonHome/>
             <div style={{ backgroundImage: `url(${background})`, height: 1000}}>
-            <p><Link to="/dashboard"> <button class="nav-links">Sign In </button></Link></p>
               <div class = "welcome">
                 Welcome to Lightly
               </div>

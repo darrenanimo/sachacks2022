@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import Dashboard from './pages/Dashboard';
 import Home from './pages/Home';
+import Resources from './pages/Resources';
+import CalendarView from './pages/Calendar';
 
 import "@fontsource/cormorant";
 
@@ -20,6 +22,10 @@ function App() {
       <Route exact path="/home" element={<Home />}>
       </Route>
       <Route exact path="/dashboard" element={<Dashboard />}>
+      </Route>
+      <Route exact path="/resources" element={<Resources />}>
+      </Route>
+      <Route exact path="/calendar" element={<CalendarView />}>
       </Route>
     </Routes>
     </BrowserRouter>

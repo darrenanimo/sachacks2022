@@ -11,8 +11,8 @@ function TopRibbon() {
             
           </div>
           <div class = "navright">
-          <p><Link to="/home"> <button class="nav-links">Resources </button></Link></p>
-            <p><Link to="/home"> <button class="nav-links">Personal Planning </button></Link></p>
+          <p><Link to="/resources"> <button class="nav-links">Resources </button></Link></p>
+            <p><Link to="/calendar"> <button class="nav-links">Personal Planning </button></Link></p>
             <p><Link to="/home"> <button class="nav-links">Sign Out </button> </Link></p>
           </div>
       </div>

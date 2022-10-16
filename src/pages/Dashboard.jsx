@@ -1,5 +1,5 @@
 import React from 'react';
-//import '../css/Dashboard.css';
+import '../css/Dashboard.css';
 import { Link } from 'react-router-dom';
 import TopRibbon from '../components/topribbon.jsx'
 
@@ -12,10 +12,19 @@ function Dashboard() {
             <TopRibbon />
             <div style={{ backgroundImage: `url(${background})`, height: 1000}}>
             
+            <br/>
+
+                <div id="dash">
+                    <p class="howdoing">
+                        How have you been doing?
+                    <input class = "input"></input>
+                    </p>
+                </div>
                 <div>
-                    <p>How have you been doing?</p>
-                    <p>
-                        What is 
+                    <p class="journal">
+                        Daily Journal Question: What's Your High Point of the Day?
+                        <input class = "input">
+                        </input> 
                     </p>
                 </div>
                 
