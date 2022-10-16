@@ -1,7 +1,7 @@
 {
   "name": "lightly",
   "version": "0.1.0",
-  "homepage": "https://darrenanimo.github.io/sachacks2022",
+  "homepage": "https://darrenanimo.github.io/sachacks2022/",
   "private": true,
   "dependencies": {
     "@fontsource/cormorant": "^4.5.9",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
