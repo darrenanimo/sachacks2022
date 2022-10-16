@@ -1,13 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './topribbon.css'
+import logo from "../images/lightly-logo.png";
 
 function TopRibbon() {
     return (
       <div id="topribbon">
         
           <div class="navleft">
-            <Link to="/dashboard"><button class="logo">lightly</button></Link>
+            <Link to="/dashboard"><img src={logo} id="logo"/></Link>
             
           </div>
           <div class = "navright">

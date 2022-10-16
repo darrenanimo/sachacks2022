@@ -2,6 +2,7 @@ import React from 'react';
 import '../css/Dashboard.css';
 import { Link } from 'react-router-dom';
 import TopRibbon from '../components/topribbon.jsx'
+import StarRating from '../components/StarRating';
 
 import background from "../images/website-background.png"
 
@@ -17,7 +18,7 @@ function Dashboard() {
                 <div id="dash">
                     <p class="howdoing">
                         How have you been doing?
-                    <input class = "input"></input>
+                    <StarRating/>
                     </p>
                 </div>
                 <div>

@@ -7,19 +7,23 @@
   text-decoration: none;
 }
 
+img#logo {
+    width: 170px;
+    height: auto;
+    margin: -10px 3px 3px 3px;
+  }
+
 .navleft {
     display: flex;
     flex-direction: row;
     width: 100%;
-    background-color: white;
     justify-content: left;
   }
   .navright {
     display: flex;
     flex-direction: row;
     width: 100%;
-    background-color: white;
-    justify-content: right;
+    justify-content: space-evenly;
   }
 
 .logo {
