@@ -7,14 +7,14 @@ import CalendarView from './pages/Calendar';
 
 import "@fontsource/cormorant";
 
-import {BrowserRouter, Routes, Route, Navigate} from "react-router-dom";
+import {HashRouter, Routes, Route, Navigate} from "react-router-dom";
 
 
 
 function App() {
 
   return (
-     <BrowserRouter>
+     <HashRouter>
       <Routes>
       {/* if user is already logged in, go to dashboard */}
       <Route exact path="/" element={<Navigate to="/home"/>}>
@@ -28,7 +28,7 @@ function App() {
       <Route exact path="/calendar" element={<CalendarView />}>
       </Route>
     </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
