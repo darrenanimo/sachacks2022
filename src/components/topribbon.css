@@ -25,6 +25,12 @@ img#logo {
     width: 100%;
     justify-content: space-evenly;
   }
+  .navhome {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: right;
+  }
 
 .logo {
     display: flex;
