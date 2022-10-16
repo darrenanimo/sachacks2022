@@ -26,20 +26,19 @@ function Resources() {
                             <img src={person1} id="person1"/>
                             <h1 class="name">Dr. Alexandra</h1>
                             <h2 class="role">Therapist/Counselor</h2>
-                            <button class="appointment">Schedule an Appointment</button>
+                            <button class="appoint">Schedule an Appointment</button>
                         </p2>
-                        <br/>
                         <p2 class="pros">
                             <img src={person2} id="person2"/>
                             <h1 class="name">Dr. Darren</h1>
                             <h2 class="role">Therapist/Counselor</h2>
-                            <button class="appointment">Schedule an Appointment</button>
+                            <button class="appoint">Schedule an Appointment</button>
                         </p2>
                         <p3 class="pros">
                             <img src={person3} id="person3"/>
                             <h1 class="name">Dr. Sejal</h1>
                             <h2 class="role">Therapist/Counselor</h2>
-                            <button class="appointment">Schedule an Appointment</button>
+                            <button class="appoint">Schedule an Appointment</button>
                         </p3>
                     </p>
                 </div>

@@ -62,14 +62,14 @@
 }
 
 img#person1 {
-    width: 100px;
-    height: auto;
+    width: auto;
+    height: 100px;
     margin: 3px 3px 3px 3px;
   }
 
 img#person2 {
-    width: 100px;
-    height: auto;
+    width: auto;
+    height: 100px;
     margin: 3px 3px 3px 3px;
   }
 
@@ -94,7 +94,10 @@ img#person3 {
 
 .appoint {
     display: flex;
-    border: none;
+    justify-content: center;
+    align-items: center;
     outline: none;
     height: 20px;
+    margin-top: 30px;
+
 }

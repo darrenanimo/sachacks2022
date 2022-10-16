@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import TopRibbon from '../components/topribbon.jsx';
 import "../css/calendar.css"
 
@@ -7,7 +6,6 @@ import background from "../images/website-background.png";
 
 import {
     Calendar,
-    Views,
     momentLocalizer,
   } from 'react-big-calendar';
 
